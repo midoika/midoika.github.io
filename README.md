@@ -1,5 +1,9 @@
-# midoika.github.io
-Testing Github Pages
-## アーカイブ
-* aaaaa
-* `x = y + 1`
+# スーパーマリオファンクラブ
+## オープンチャット
+* 本部
+* マリオ以外
+* 対戦用
+* ネタバレ用
+
+## Discord
+* 仮サーバ
