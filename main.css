@@ -1448,7 +1448,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .mod-title2__new:before {
   content: "";
-  background: url(img/common/ic_recommend_new.png) no-repeat left top;
+  background: url(ic_recommend_new.png) no-repeat left top;
   background-size: 37px 39px;
   width: 37px;
   height: 39px;
@@ -2137,7 +2137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mod-pageSelect select {
-  background: url(img/common/ic_arrow03_b.png) no-repeat 90% center;
+  background: url(ic_arrow03_b.png) no-repeat 90% center;
   background-size: 7px 6px;
   border: none;
   font-weight: bold;
@@ -2881,7 +2881,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .mod-recommend__rank .mod-recommend-ttl:before {
   content: "";
-  background: url(img/common/ic_recommend_rank.png) no-repeat left top;
+  background: url(ic_recommend_rank.png) no-repeat left top;
   background-size: 37px 37px;
   width: 37px;
   height: 37px;
@@ -2895,7 +2895,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .mod-recommend__new .mod-recommend-ttl:before {
   content: "";
-  background: url(img/common/ic_recommend_new.png) no-repeat left top;
+  background: url(ic_recommend_new.png) no-repeat left top;
   background-size: 37px 39px;
   width: 37px;
   height: 39px;
@@ -2909,7 +2909,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .mod-recommend__history .mod-recommend-ttl:before {
   content: "";
-  background: url(img/common/ic_recommend_history.png) no-repeat left top;
+  background: url(ic_recommend_history.png) no-repeat left top;
   background-size: 37px 37px;
   width: 37px;
   height: 37px;
@@ -2923,7 +2923,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .mod-recommend__reco .mod-recommend-ttl:before {
   content: "";
-  background: url(img/common/ic_recommend_reco.png) no-repeat left top;
+  background: url(ic_recommend_reco.png) no-repeat left top;
   background-size: 37px 37px;
   width: 37px;
   height: 37px;
@@ -3033,12 +3033,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mod-recommend__linkIc .mod-recommendList ul li a {
-  background: url(img/common/ic_arrow2_r.png) no-repeat 95% center;
+  background: url(ic_arrow2_r.png) no-repeat 95% center;
   background-size: 12px 12px;
 }
 @media only screen and (min-width: 769px) {
   .mod-recommend__linkIc .mod-recommendList ul li a {
-    background: url(img/common/ic_arrow_r.png) no-repeat 95% center;
+    background: url(ic_arrow_r.png) no-repeat 95% center;
     background-size: 12px 12px;
   }
 }
@@ -3676,11 +3676,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
 }
 .mod-form-check input[type="checkbox"] + label {
-  background: url(img/regist/ic_check.png) no-repeat left center;
+  background: url(ic_check.png) no-repeat left center;
   background-size: 24px auto;
 }
 .mod-form-check input[type="checkbox"]:checked + label {
-  background: url(img/regist/ic_check_on.png) no-repeat left center;
+  background: url(ic_check_on.png) no-repeat left center;
   background-size: 24px auto;
 }
 
@@ -3775,7 +3775,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mod-bbsBox-rank__rank1 {
-  background: url(img/common/ic_bbs_rank1.png) no-repeat left top;
+  background: url(ic_bbs_rank1.png) no-repeat left top;
   background-size: 17px auto;
   padding: 6px 5px 0;
 }
@@ -3787,7 +3787,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mod-bbsBox-rank__rank2 {
-  background: url(img/common/ic_bbs_rank2.png) no-repeat left top;
+  background: url(ic_bbs_rank2.png) no-repeat left top;
   background-size: 17px auto;
   padding: 6px 5px 0;
 }
@@ -3799,7 +3799,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mod-bbsBox-rank__rank3 {
-  background: url(img/common/ic_bbs_rank3.png) no-repeat left top;
+  background: url(ic_bbs_rank3.png) no-repeat left top;
   background-size: 17px auto;
   padding: 6px 5px 0;
 }
@@ -4156,7 +4156,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: url('img/icons-s9159ce44f0.png') no-repeat;
+  background: url('icons-s9159ce44f0.png') no-repeat;
   -moz-background-size: 36px 1134px;
   -o-background-size: 36px 1134px;
   -webkit-background-size: 36px 1134px;
