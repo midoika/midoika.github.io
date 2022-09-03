@@ -1,3 +1,6 @@
+# 前ルールの説明
+<https://midoika.github.io/rule_explanation>
+
 # ルール
 
 基本ルールと独自ルール統合
