@@ -1,9 +1,5 @@
-# スーパーマリオファンクラブ
-## オープンチャット
-* 本部
-* マリオ以外
-* 対戦用
-* ネタバレ用
-
-## Discord
-* 仮サーバ
+- [ブログ](https://budankaihan.blog.fc2.com/)
+- [ポータルサイト](https://sites.google.com/view/midoika-portal)
+- Twitter
+  - [マリオ](https://twitter.com/midoika_mario)
+  - [まぞく](https://twitter.com/midoika1)
